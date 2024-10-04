@@ -1,0 +1,6 @@
+{
+  "name": "nocworx/datasets-country-codes",
+  "replace": {
+    "datasets/country-codes": "*"
+  }
+}
